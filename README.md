@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Darren Seet, a Salesforce Developer 👋
 
-<!--
-**SFDarren/SFDarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love exploring the possibilities of LWCs and redefining what we can do to improve user experience
 
-Here are some ideas to get you started:
+  
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="SpliceReborn" width="22px" src="https://darrenseet.com/images/favicon.ico"/>][website]
+[<img align="left" alt="SpliceReborn" width="22px" src="https://img.icons8.com/color/48/FFFFFF/discord-logo.png"/>][discord]
+
+<br />
+<br />
+
+[website]: https://darrenseet.com
+[discord]: https://discordapp.com/users/241402859554340865/
